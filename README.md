@@ -2,6 +2,12 @@
 
 ## this is a simple chat app in node js 
 
+# to run 
+`
+  npm install
+  npm start
+`
+
 Features:
 
 1. enter your name and room you want you join
@@ -16,4 +22,6 @@ pictures from the app:
 
 2. chatting room page
 
-![chat room page](https://github.com/yasminekamal/chat-app/blob/main/images/2.PNG , https://github.com/yasminekamal/chat-app/blob/main/images/3.PNG ,https://github.com/yasminekamal/chat-app/blob/main/images/4.PNG)
+![chat room page](https://github.com/yasminekamal/chat-app/blob/main/images/2.PNG)
+![]( https://github.com/yasminekamal/chat-app/blob/main/images/3.PNG )
+![]( https://github.com/yasminekamal/chat-app/blob/main/images/4.PNG)
